@@ -1,0 +1,13 @@
+{
+  "name": "ci",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^16.9.4",
+    "ts-node": "^10.2.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "execa": "^5.1.1"
+  }
+}
